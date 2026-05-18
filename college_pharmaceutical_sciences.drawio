@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="ChatGPT">
   <diagram id="college-pharma" name="Page-1">
-    <mxGraphModel dx="2060" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="english_bg" parent="7xrKX5QTVDyvf1N4BgC4-1" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#5B5755;strokeColor=#5B5755;shadow=0;" value="" vertex="1">
           <mxGeometry height="140" width="1070" as="geometry" />
         </mxCell>
-        <mxCell id="english_title" parent="7xrKX5QTVDyvf1N4BgC4-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=44;fontStyle=2;fontColor=#35C781;whiteSpace=wrap;rounded=0;" value="COLLEGE OF PHARMACEUTICAL SCIENCES" vertex="1">
+        <mxCell id="english_title" parent="7xrKX5QTVDyvf1N4BgC4-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=44;fontStyle=2;fontColor=#35C781;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 51, 102);&quot;&gt;COLLEGE OF PHARMACEUTICAL SCIENCES&lt;/font&gt;" vertex="1">
           <mxGeometry height="66.31578947368422" width="984.4" x="42.8" y="33.15789473684211" as="geometry" />
         </mxCell>
       </root>
